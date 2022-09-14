@@ -50,8 +50,7 @@ Bonus:
 
 ### Additional Information
 
-- Currently the project uses typescript, but you can rename / create js/jsx files
-  if you want to opt out of type checking
+- Currently the project uses typescript, but you can adjust files if you want to opt out of type checking
 
 - Even though this project is fairly simple try to organize it like you would do
   for larger components.
